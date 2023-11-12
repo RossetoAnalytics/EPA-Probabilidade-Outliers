@@ -1,6 +1,6 @@
 # EPA-Probabilidade-Outliers
 
-Passo a passo de uma análise de distribuição de probabilidade, com identificação de Outlier usando regra empírica em distribuição. A regra empírica é fundamental para casos em que o Outlier é bem próximo de uma curva de distribuição normal, e oferece um padrão padronizado.
+Passo a passo de uma análise de distribuição de probabilidade, com identificação de Outlier usando regra empírica em distribuição. A regra empírica é fundamental para casos em que o Outlier é bem próximo de uma curva de distribuição normal, e oferece um padrão padronizado. Para distribuições não normais, além da identificação por Plots, se usa o IQR.
 
 **Questão de negócio:** Seu gerente de projetos pediu para determinar quais regiões necessitam de apoio para melhorar a qualidade do ar. Dado que o monóxido de carbono é um dos principais poluentes do ar, investigaremos os dados do Índice de Qualidade do Ar (AQI) em relação ao monóxido de carbono.
 
