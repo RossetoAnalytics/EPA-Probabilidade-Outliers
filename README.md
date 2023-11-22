@@ -12,3 +12,5 @@ Passo a passo de uma análise de distribuição de probabilidade, com identifica
 * Pesquisa de mercado
 * Avaliações extremas (Marketing)
 * Melhores clientes
+
+**Dataset disponível no diretório**
